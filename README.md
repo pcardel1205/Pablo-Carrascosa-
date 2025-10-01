@@ -1,5 +1,5 @@
 # Pablo-Carrascosa-
-<h1 align="center">Hola 👋, Soy fablo Carrascosa Delgado</h1>
+<h1 align="center">Hola 👋, Soy Pablo Carrascosa Delgado</h1>
 <h3 align="center">Soy un estudiante de Grado Superior de Informática, especializado en desarrollo de aplicaciones web.</h3>
 
 <h3 align="left">Connect with me:</h3>
