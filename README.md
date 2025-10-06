@@ -13,7 +13,7 @@
 - 🎓 Estudiante de desarrollo web
 - 💻 Apasionado por el código limpio y el diseño elegante
 - 🌍 Desde Granada, España
-- 📫 Puedes contactarme en: pcardel1205@g.educaand.es(mailto:pcardel1205@g.educaand.es)
+- 📫 Puedes contactarme en: pcardel1205@g.educaand.es
 
 ---
 
