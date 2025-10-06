@@ -1,5 +1,4 @@
 <h1 align="center">¡Hola! 👋 Soy Pablo Carrascosa </h1>
----
 
 ### 🧠 Sobre mí
 
