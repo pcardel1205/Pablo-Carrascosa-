@@ -1,9 +1,45 @@
 # Pablo-Carrascosa-
-<h1 align="center">Hola 👋, Soy Pablo Carrascosa Delgado</h1>
-<h3 align="center">Soy un estudiante de Grado Superior de Informática, especializado en desarrollo de aplicaciones web.</h3>
+<h1 align="center">¡Hola! 👋 Soy [TuNombre]</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TuUsuario?label=Follow&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/twitter/follow/TuTwitter?style=social" alt="Twitter Follow">
 </p>
 
-[![Pablo Carrascosa](https://github-readme-stats.vercel.app/api?username=pcardel1205)](https://github.com/SrGobi/github-readme-stats)
+---
+
+### 🧠 Sobre mí
+
+- 🎓 Estudiante de desarrollo web
+- 💻 Apasionado por el código limpio y el diseño elegante
+- 🌍 Desde Granada, España
+- 📫 Puedes contactarme en: [tuemail@example.com](mailto:tuemail@example.com)
+
+---
+
+### 🚀 Tecnologías que uso
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+---
+
+### 📊 Estadísticas
+
+![TuUsuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
+
+---
+
+### 🎯 Proyectos destacados
+
+- 🔗 [Mi portafolio personal](https://tusitio.com)
+- 📱 [App de clima con React](https://github.com/TuUsuario/app-clima)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=TuUsuario.TuUsuario" alt="visitors">
+</p>
