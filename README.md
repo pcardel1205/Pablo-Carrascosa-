@@ -19,8 +19,8 @@
 
 ### 📊 Estadísticas
 
-![TuUsuario's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuUsuario&layout=compact&theme=radical)
+![pcardel1205's Stats](https://github-readme-stats.vercel.app/api?username=pcardel1205&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![pcardel1205's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pcardel1205&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
