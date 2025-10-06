@@ -1,11 +1,5 @@
 # Pablo-Carrascosa-
 <h1 align="center">¡Hola! 👋 Soy Pablo Carrascosa </h1>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/TuUsuario?label=Follow&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/twitter/follow/TuTwitter?style=social" alt="Twitter Follow">
-</p>
-
 ---
 
 ### 🧠 Sobre mí
@@ -31,9 +25,6 @@
 ---
 
 ### 🎯 Proyectos destacados
-
-- 🔗 [Mi portafolio personal](https://tusitio.com)
-- 📱 [App de clima con React](https://github.com/TuUsuario/app-clima)
 
 ---
 
